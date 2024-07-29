@@ -77,7 +77,7 @@ const renderData = (element) => {
 }
 
 
-let api_key = "your-api-key";
+let api_key = "AIzaSyDE9t-ttfk6AULrFrdNa5ZSig2CALV4L6U";
 let video_http = "https://www.googleapis.com/youtube/v3/videos?";
 let channel_http = "https://www.googleapis.com/youtube/v3/channels?";
 
